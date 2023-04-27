@@ -1,6 +1,7 @@
+<div align="left">
 # 💫 About Me:
 As a data science enthusiast, I have been learning and practicing machine learning and artificial intelligence for the past eight months. My passion for exploring and analyzing data, and the desire to solve complex business problems, led me to pursue a career in this field. I have acquired a strong foundation in data wrangling, data visualization, statistical analysis, and machine learning algorithms. Through personal projects and online courses, I have developed expertise in Python, SQL, and several machine learning libraries. I am constantly striving to learn and stay updated on the latest developments in data science, and I am eager to apply my skills to real-world problems
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekrainaa) 
