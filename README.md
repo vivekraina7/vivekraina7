@@ -1,3 +1,16 @@
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div style="flex-basis: 50%;">
+    <h2>About Me</h2>
+    <p>Insert your About Me content here.</p>
+  </div>
+
+  <div style="flex-basis: 50%; text-align: right;">
+    <h2>Connect Me</h2>
+    <p>Insert your Connect Me content here.</p>
+  </div>
+
+</div>
 <div align="left">
 # 💫 About Me:
 As a data science enthusiast, I have been learning and practicing machine learning and artificial intelligence for the past eight months. My passion for exploring and analyzing data, and the desire to solve complex business problems, led me to pursue a career in this field. I have acquired a strong foundation in data wrangling, data visualization, statistical analysis, and machine learning algorithms. Through personal projects and online courses, I have developed expertise in Python, SQL, and several machine learning libraries. I am constantly striving to learn and stay updated on the latest developments in data science, and I am eager to apply my skills to real-world problems
