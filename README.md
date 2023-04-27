@@ -3,7 +3,15 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
-As a data science enthusiast, I have been learning and practicing machine learning and artificial intelligence for the past eight months. My passion for exploring and analyzing data, and the desire to solve complex business problems, led me to pursue a career in this field. I have acquired a strong foundation in data wrangling, data visualization, statistical analysis, and machine learning algorithms. Through personal projects and online courses, I have developed expertise in Python, SQL, and several machine learning libraries. I am constantly striving to learn and stay updated on the latest developments in data science, and I am eager to apply my skills to real-world problems
+As a data science enthusiast, I have been learning and practicing machine learning 
+and artificial intelligence for the past eight months. My passion for exploring and
+analyzing data, and the desire to solve complex business problems, led me to pursue
+a career in this field. I have acquired a strong foundation in data wrangling, data
+visualization, statistical analysis, and machine learning algorithms. Through 
+personal projects and online courses, I have developed expertise in Python, SQL,
+and several machine learning libraries. I am constantly striving to learn and stay 
+updated on the latest developments in data science, and I am eager to apply my 
+skills to real-world problems
 
 ---
 
