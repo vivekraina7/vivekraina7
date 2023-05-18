@@ -4,7 +4,7 @@
 ## About me
  <p align="center">
 As a data science enthusiast, I have been learning and practicing machine learning
-and artificial intelligence for the past eight months. My passion for exploring and
+and artificial intelligence for the past ten months. My passion for exploring and
 analyzing data, and the desire to solve complex business problems, led me to pursue
 a career in this field. I have acquired a strong foundation in data wrangling, data
 visualization, statistical analysis, and machine learning algorithms. Through 
